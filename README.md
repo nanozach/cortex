@@ -1,2 +1,2 @@
 # cortex
-Warmachine MKIII to MKIV Bodge
+Cortex is a collection of tools for evaluating miniatures and mass conversion between rule sets.
